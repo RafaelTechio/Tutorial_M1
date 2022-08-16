@@ -9,3 +9,5 @@ Neste repositório serão concentradas todas as informações necessárias relac
 
 - Cada etapa do tutorial é um autoestudo semanal, por isso, sua descrição está disponível na Adalove bem como o link para o local no Github com todos os arquivos necessários para sua execução (subdiretório `01_TUTORIAL` deste repositório);
 - Além do tutorial, a cada semana, vocês terão autoestudos (atividades individuais), que deverão ser entregues até o final da semana em questão. Essas atividades estarão relacionadas à etapa anterior do tutorial para que vocês pratiquem mais. Estes autoestudos, bem como os links para os arquivos no Github (subdiretório `02_ATIVIDADES`) estarão disponíveis na Adalove a cada semana;
+
+<a href="https://rafaeltechio.itch.io/modulo1semana3" target="_blank" rel="noopener noreferrer"> Atividade semana 3 </a>
