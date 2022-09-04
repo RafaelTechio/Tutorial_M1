@@ -14,6 +14,7 @@ func _on_Button_pressed():
 	#Coletando dados inseridos pelo usuário
 	numero = int($LineEdit.text)
 	$Label.text = str(numero)
+	lista = []
 
 
 func _on_Button2_pressed():
@@ -21,7 +22,7 @@ func _on_Button2_pressed():
 	for i in range(10):
 		numero+=i
 		lista.append(numero)
-	$Label.text = str(numero)
+	$Label.text = str(lista)
 
 func _on_Button3_pressed():
 	var cont = 0
@@ -32,7 +33,9 @@ func _on_Button3_pressed():
 			cont+=1
 			
 	if(cont!=0):
-		$Label2.text = nome + "baldo"
+		$Label2.text = str(nome) + "baldo"
+	else:
+		$Label2.text = "Lista não tem ímpar"		
 
 
 func _on_LineEdit2_text_changed(new_text):
